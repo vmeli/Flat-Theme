@@ -1,0 +1,104 @@
+.navbar {
+	background: #34495E;
+	padding: 1%;
+}
+
+.nav{
+	float: right;
+	margin-top: 1%;
+	background-color: #34495E;
+}
+.nav a{
+	color: white;
+}
+.nav-pills>li>a:hover{
+	background-color: #2C3E50;
+}
+
+.cabecera {
+	background: #2ECC71;
+	color: white;
+	padding: 3% 0%;
+	margin-top: 67px;
+}
+
+.cabecera a {
+	color: white;
+}
+
+.cabecera span {
+	margin: 10px;
+}
+
+.cabecera p {
+	display: inline-block;
+}
+
+.cabecera-nav {
+	float: right;
+}
+
+
+
+.clients {
+	background: #E74C3C;
+	color: white;
+	padding: 4% 0%;
+}
+
+.clients h2 {
+	text-align: center;
+}
+
+.clients p {
+	margin-bottom: 40px;
+}
+
+.clients h5 {
+	font-size: 18px;
+}
+
+.clients span {
+	font-size: 14px;
+}
+
+.clients .container {
+	margin-bottom: 20px;
+}
+
+.clients .col-md-6 {
+	border-left: 4px solid;
+}
+
+
+
+.bg-navy-blue{
+	background: #34495E;
+	color: white;
+	padding: 3%;
+}
+
+.bg-navy-blue a {
+	color: white;
+}
+
+.bg-navy-blue ul {
+	padding-left: 25px;
+}
+
+.input-group-btn button {
+	background: #E74C3C;
+	border-color: red;
+	color: white;
+}
+
+.bg-dark-blue{
+	background: #2C3E50;
+	color: white;
+	padding: 2%;
+}
+
+.bg-dark-blue a {
+	color: white;
+	padding: 0% 2%;
+}
